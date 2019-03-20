@@ -1,5 +1,5 @@
 package pl.sda;
-
+//Write a Java program to remove and return the first element of a linked list.
 import java.util.LinkedList;
 
 public class Exercise16 {
