@@ -1,5 +1,5 @@
 package pl.sda;
-
+//Write a Java program to replace an element in a linked list.
 import java.util.LinkedList;
 
 public class Exercise17 {
